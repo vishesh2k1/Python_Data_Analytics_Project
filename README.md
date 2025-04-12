@@ -1,4 +1,4 @@
-# Python_Data_Analytics_projects
+# Python_Data_Analytics_project
 
 This is a python data analytics project(Diwali_Sales_Analysis)
    this project usses following --
